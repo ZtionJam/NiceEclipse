@@ -14,7 +14,7 @@
 
 # 作者
 
-​	ZtionJam，搬砖工
+​	ZtionJam，一个Java搬砖佬
 
 # 声明
 
